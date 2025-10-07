@@ -1,0 +1,23 @@
+Day 22 – Variables and Data Types
+
+Variables store information that can be used later in the program.
+Declared with var, let, or const.
+Common data types:
+
+String → text "Hello"
+
+Number → numeric 25
+
+Boolean → true or false
+
+Array → list [1,2,3]
+
+Object → key-value pair {name:"John", age:21}
+Example:
+
+let name = "John";
+const age = 21;
+var isStudent = true;
+
+
+Variables and data types are essential for storing and manipulating information.
