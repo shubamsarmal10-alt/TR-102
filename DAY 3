@@ -1,0 +1,142 @@
+Advanced Properties and Concepts of HTML
+1. HTML Attributes
+
+Attributes provide additional information about an element and modify its behavior.
+
+Syntax: <tag attribute="value">
+
+Examples of common attributes:
+
+id – Unique identifier for an element
+
+class – Assigns a class for CSS or JS
+
+src – Specifies source for images or media
+
+href – Specifies link destination
+
+alt – Provides alternative text for images
+
+title – Tooltip text
+
+style – Inline CSS for styling
+
+2. HTML Comments
+
+Comments are ignored by browsers and used for documentation.
+
+Syntax: <!-- This is a comment -->
+
+3. HTML Entities
+
+Used to display special characters that have reserved meanings in HTML.
+
+Examples:
+
+&lt; → <
+
+&gt; → >
+
+&amp; → &
+
+&quot; → "
+
+&copy; → ©
+
+4. HTML Colors and Styles
+
+HTML supports colors via:
+
+Color Names: red, blue, green
+
+Hex Codes: #FF0000 (red)
+
+RGB Values: rgb(255,0,0)
+
+Inline styling using style attribute, e.g., <p style="color:blue; font-size:16px;">Text</p>
+
+5. HTML Forms
+
+Forms are used to collect user input.
+
+Key form elements:
+
+<input> – Text, password, checkbox, radio, file, etc.
+
+<textarea> – Multiline text input
+
+<button> – Submit or action button
+
+<select> & <option> – Dropdown menus
+
+Attributes include name, value, placeholder, required, maxlength
+
+6. HTML Tables
+
+Tables structure data in rows and columns.
+
+Key tags:
+
+<table> – Table container
+
+<tr> – Table row
+
+<th> – Table header cell
+
+<td> – Table data cell
+
+Attributes like border, cellpadding, cellspacing, colspan, rowspan
+
+7. HTML Media
+
+Embeds audio, video, and interactive media.
+
+<audio> – Play sound files (mp3, ogg)
+
+<video> – Display video (mp4, webm)
+
+<source> – Multiple media formats for fallback
+
+<iframe> – Embed other web pages
+
+8. HTML Semantic Elements
+
+Introduced in HTML5 for meaningful structure:
+
+<header> – Header section
+
+<footer> – Footer section
+
+<article> – Self-contained content
+
+<section> – Thematic grouping
+
+<nav> – Navigation links
+
+<aside> – Sidebar content
+
+<main> – Primary content
+
+9. HTML5 APIs and Features
+
+HTML5 introduced APIs for advanced web functionality:
+
+Canvas API – Draw graphics and animations
+
+Geolocation API – Get user location
+
+Local Storage & Session Storage – Store data in browser
+
+Drag & Drop API – Drag items on page
+
+Web Workers – Background scripts
+
+Audio/Video API – Media manipulation
+
+10. HTML Links
+
+Internal Links: Navigate within the same page (#section1)
+
+External Links: Navigate to other websites (https://example.com)
+
+Anchor Tag <a> Attributes: target="_blank", rel="noopener", download
