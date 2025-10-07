@@ -1,0 +1,15 @@
+Day 21 – JavaScript Introduction
+
+JavaScript (JS) is a programming language used to make webpages dynamic and interactive.
+It can change content, styles, and respond to user actions without reloading the page.
+JS runs in the browser and can also run on servers (Node.js).
+Basic usage is inside the <script> tag or in an external .js file linked with <script src="file.js"></script>.
+Example:
+
+<script>
+alert("Welcome to JavaScript!");
+console.log("Hello World!");
+</script>
+
+
+JS allows dynamic content, interactivity, and control over HTML elements.
