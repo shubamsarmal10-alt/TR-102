@@ -1,0 +1,25 @@
+Day 23 – Operators and Conditional Statements
+
+Operators are symbols that perform operations:
+
+Arithmetic: + - * / %
+
+Assignment: =, +=, -=
+
+Comparison: ==, !=, >, <, >=, <=
+
+Logical: &&, ||, !
+Conditional statements make decisions in code.
+Example:
+
+let marks = 75;
+if(marks >= 50) {
+  alert("Pass");
+} else if(marks >= 40) {
+  alert("Need Improvement");
+} else {
+  alert("Fail");
+}
+
+
+Conditionals help programs respond differently based on data.
