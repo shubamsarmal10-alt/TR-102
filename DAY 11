@@ -1,0 +1,18 @@
+Day 11 – Introduction to CSS
+
+CSS stands for Cascading Style Sheets.
+It is used to style HTML elements and make webpages visually attractive.
+CSS can change colors, fonts, layout, spacing, borders, and more.
+Three types of CSS:
+
+Inline CSS – inside HTML tag using style attribute.
+
+Internal CSS – inside <style> tag in <head>.
+
+External CSS – in a separate .css file linked with <link>.
+Example (inline CSS):
+
+<p style="color: blue; font-size: 16px;">Hello CSS!</p>
+
+
+CSS separates design from content, making code cleaner.
