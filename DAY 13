@@ -1,0 +1,13 @@
+Day 13 – CSS Colors and Backgrounds
+
+CSS allows changing text and background colors.
+color property sets text color.
+background-color sets the background.
+You can use color names, HEX codes, or RGB values.
+Example:
+
+body { background-color: #f0f0f0; color: #333333; }
+
+
+background-image adds images, and background-repeat controls repetition.
+Proper use of colors improves readability and design.
