@@ -1,0 +1,12 @@
+Day 5 – HTML Links and Images
+
+Links connect webpages using <a> tag.
+The href attribute specifies the URL.
+Images are inserted using <img src="path" alt="description">.
+Example:
+
+<a href="https://example.com">Visit Site</a>
+<img src="photo.jpg" alt="My Photo" width="200">
+
+
+You can also link email using mailto: and open links in new tabs using target="_blank".
