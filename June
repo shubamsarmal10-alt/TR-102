@@ -1,0 +1,19 @@
+Introduction to HTML
+
+HTML (HyperText Markup Language) is the standard language used to create and design web pages. It provides the structure of a webpage by using tags and elements to define headings, paragraphs, links, images, tables, forms, and other content.
+
+HyperText: Refers to the way web pages are linked together using hyperlinks.
+
+Markup Language: Uses tags to "mark up" text so that browsers can display it properly.
+
+Key Features of HTML:
+
+Structure Content: Organizes content into headings, paragraphs, lists, tables, etc.
+
+Hyperlinking: Allows linking to other pages or websites.
+
+Embedding Media: Supports images, audio, video, and other multimedia elements.
+
+Forms & Input: Enables user interaction through forms.
+
+Cross-platform: HTML files can be viewed on any device with a web browser.
