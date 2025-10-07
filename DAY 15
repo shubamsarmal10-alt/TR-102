@@ -1,0 +1,21 @@
+Day 15 – CSS Box Model
+
+Every HTML element is a box consisting of:
+
+Content – text or image.
+
+Padding – space inside the border.
+
+Border – edge around padding.
+
+Margin – space outside the border.
+Example:
+
+div {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+
+The box model helps control spacing, layout, and element placement.
