@@ -1,0 +1,19 @@
+Day 19 – CSS Transitions and Hover
+
+Transitions create smooth effects when properties change.
+:hover applies style changes when mouse is over an element.
+Example:
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  transition: 0.5s;
+}
+button:hover {
+  background-color: red;
+  transform: scale(1.1);
+}
+
+
+Transitions and hover effects improve interactivity and UX.
