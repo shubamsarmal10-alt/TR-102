@@ -1,0 +1,18 @@
+Day 10 – HTML Comments and Entities
+
+HTML comments are used to explain code, add notes, or hide code temporarily.
+They are written inside <!-- --> and are not displayed in the browser.
+Example:
+
+<!-- This is a comment -->
+<p>This is visible content.</p>
+
+
+Comments help developers understand code better when revisiting later.
+
+HTML entities are special codes that display reserved or invisible characters.
+They begin with & and end with ;.
+For example:
+&lt; = <, &gt; = >, &amp; = &, &nbsp; = non-breaking space, &copy; = © symbol.
+Entities ensure symbols and characters appear correctly in the browser.
+They are especially useful when writing code snippets or symbols that HTML normally uses for tags.
