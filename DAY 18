@@ -1,0 +1,22 @@
+Day 18 – CSS Flexbox
+
+Flexbox is used for responsive layouts and alignment.
+Parent element: display: flex;
+Important properties:
+
+justify-content → horizontal alignment.
+
+align-items → vertical alignment.
+
+flex-direction → row or column layout.
+Example:
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
+Flexbox makes centering and arranging elements easier.
