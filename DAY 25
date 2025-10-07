@@ -1,0 +1,21 @@
+Day 25 – DOM Manipulation
+
+DOM (Document Object Model) represents the HTML structure as objects in JavaScript.
+JS can read, modify, or delete elements, change styles, and respond to events.
+Common methods:
+
+getElementById() → select element by ID
+
+getElementsByClassName() → select elements by class
+
+querySelector() → select first matching element
+
+innerHTML → change content
+Example:
+
+document.getElementById("demo").innerHTML = "Welcome User!";
+document.querySelector("p").style.color = "blue";
+
+
+JS events like onclick, onmouseover, onchange make pages interactive and user-friendly.
+DOM manipulation is essential for modern dynamic websites, allowing developers to control content, layout, and behavior in real-time.
