@@ -1,0 +1,14 @@
+Day 7 – HTML Forms
+
+Forms collect user input.
+Main tags: <form>, <input>, <textarea>, <select>, <option>, <button>.
+Example:
+
+<form>
+  <input type="text" placeholder="Enter Name">
+  <input type="email" placeholder="Enter Email">
+  <button type="submit">Submit</button>
+</form>
+
+
+Forms send data to servers for processing.
