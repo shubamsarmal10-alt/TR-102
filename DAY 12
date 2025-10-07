@@ -1,0 +1,18 @@
+Day 12 – CSS Selectors
+
+Selectors target HTML elements for styling.
+Types of CSS selectors:
+
+Element selector: p { color: red; } targets all <p> tags.
+
+Class selector: .className { color: green; } targets elements with class="className".
+
+ID selector: #idName { color: blue; } targets element with id="idName".
+Example:
+
+h1 { text-align: center; }
+.note { font-style: italic; }
+#title { font-weight: bold; }
+
+
+Selectors help apply specific styling efficiently.
