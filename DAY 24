@@ -1,0 +1,23 @@
+Day 24 – Loops and Functions
+
+Loops repeat code multiple times, reducing repetition.
+
+For loop: repeats known times.
+
+While loop: repeats until a condition is false.
+
+Do-while loop: executes first, then checks condition.
+Functions are reusable blocks of code.
+Example:
+
+for(let i = 1; i <= 5; i++) {
+  console.log("Count: " + i);
+}
+
+function greet(name){
+  console.log("Hello " + name + "!");
+}
+greet("John");
+
+
+Loops and functions simplify programming logic and efficiency.
