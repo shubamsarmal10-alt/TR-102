@@ -1,0 +1,14 @@
+Day 6 – HTML Tables
+
+Tables display data in rows and columns.
+Tags used: <table>, <tr>, <th>, <td>.
+<th> defines heading cells and <td> defines normal data cells.
+Example:
+
+<table border="1">
+  <tr><th>Name</th><th>Marks</th></tr>
+  <tr><td>John</td><td>90</td></tr>
+</table>
+
+
+You can also merge cells using colspan or rowspan.
