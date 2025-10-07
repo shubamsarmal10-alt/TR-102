@@ -1,0 +1,14 @@
+Day 16 – CSS Borders and Shadows
+
+Borders define element outlines; border-radius makes rounded corners.
+box-shadow adds depth and visual appeal.
+Example:
+
+div {
+  border: 2px solid gray;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #888888;
+}
+
+
+These properties enhance the overall design and user interface.
