@@ -1,0 +1,20 @@
+Day 4 – HTML Lists
+
+Lists organize related data clearly.
+There are three types of lists:
+
+Ordered List (<ol>) – numbered items.
+
+Unordered List (<ul>) – bullet points.
+
+Description List (<dl>) – term and description pairs.
+Example:
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+
+Lists make information structured and easy to read.
