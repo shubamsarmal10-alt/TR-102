@@ -1,0 +1,10 @@
+Day 8 – HTML Semantic Elements
+
+Semantic elements describe the meaning of content.
+Common tags: <header>, <nav>, <section>, <article>, <aside>, <footer>.
+They improve SEO and readability.
+Example:
+
+<header><h1>Website Header</h1></header>
+<section><p>Welcome to my webpage.</p></section>
+<footer>© 2025 My Website</footer>
