@@ -1,0 +1,29 @@
+Day 14 – CSS Fonts and Text
+
+CSS lets you style text for better readability and presentation.
+Properties:
+
+font-family → changes font style.
+
+font-size → sets text size.
+
+font-weight → makes text bold.
+
+font-style → italicizes text.
+
+text-align → aligns text (left, center, right, justify).
+
+text-decoration → underline, overline, or line-through.
+
+text-transform → uppercase, lowercase, capitalize.
+Example:
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+Using fonts and text styling improves readability and page design.
