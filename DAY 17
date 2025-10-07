@@ -1,0 +1,19 @@
+Day 17 – CSS Position and Display
+
+position determines how elements are placed:
+
+static → default.
+
+relative → relative to normal position.
+
+absolute → relative to nearest positioned ancestor.
+
+fixed → fixed on screen while scrolling.
+display controls layout: block, inline, inline-block, flex, grid, none.
+Example:
+
+div { position: absolute; top: 50px; left: 100px; }
+p { display: inline; }
+
+
+These properties help align and organize elements on the page.
