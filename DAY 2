@@ -1,0 +1,57 @@
+Structure of an HTML Document
+
+Every HTML page follows a basic structure:
+
+<!DOCTYPE html>
+
+Declares the HTML version and tells the browser to render the page in standard mode.
+
+<html>
+
+Root element of the HTML document. All content is inside this tag.
+
+<head>
+
+Contains metadata, page title, styles, scripts, and other non-visible content.
+
+<body>
+
+Contains all visible content, such as text, images, links, videos, and forms.
+
+Types of HTML Tags
+
+Structural Tags: <html>, <head>, <body>
+
+Text Formatting Tags: <h1>–<h6>, <p>, <b>, <i>, <u>, <strong>
+
+Hyperlink Tags: <a>
+
+List Tags: <ul> (unordered), <ol> (ordered), <li> (list item)
+
+Image & Media Tags: <img>, <audio>, <video>
+
+Table Tags: <table>, <tr>, <th>, <td>
+
+Form Tags: <form>, <input>, <button>, <textarea>, <select>
+
+Semantic Tags (HTML5): <header>, <footer>, <nav>, <article>, <section>
+
+Advantages of HTML
+
+Universal compatibility: Works on all browsers and devices.
+
+Easy to learn: No programming knowledge required.
+
+Supports multimedia: Can embed images, videos, and interactive content.
+
+Integrates with CSS & JavaScript: For styling and dynamic behavior.
+
+Lightweight: HTML files are small in size and load quickly.
+
+Limitations of HTML
+
+Static: Cannot create dynamic behavior on its own (requires JavaScript).
+
+Presentation-limited: Cannot handle advanced styling or animations without CSS.
+
+Security: Vulnerable if used improperly (e.g., forms without validation).
