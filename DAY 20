@@ -1,0 +1,15 @@
+Day 20 – CSS Grid
+
+Grid is for creating layouts in rows and columns.
+Parent element: display: grid;
+Properties: grid-template-columns, grid-template-rows, gap.
+Example:
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 15px;
+}
+
+
+Grid allows modern and precise webpage layouts.
