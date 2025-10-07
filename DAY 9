@@ -1,0 +1,15 @@
+Day 9 – HTML Media Tags
+
+HTML supports embedding audio and video files.
+Use <audio> and <video> tags with controls attribute.
+Example:
+
+<audio controls>
+  <source src="music.mp3" type="audio/mpeg">
+</audio>
+<video controls width="300">
+  <source src="movie.mp4" type="video/mp4">
+</video>
+
+
+Media enhances user experience.
